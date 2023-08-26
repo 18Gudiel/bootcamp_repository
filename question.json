@@ -11,12 +11,12 @@
 }
 {
   "category": "Deportes",
-  "question": "¿En qué deporte se utiliza la expresión "birdie"?",
+  "question": "¿En qué deporte se utiliza la expresión birdie?",
   "options": [
     "Golf",
     "Tenis",
     "Fútbol"
   ],
   "answer": 0,
-  "explanation": "En el golf, un "birdie" es una expresión que se utiliza cuando un jugador completa un hoyo en un golpe menos que el par establecido para ese hoyo. Por ejemplo, si el par de un hoyo es 4 y un jugador lo completa en 3 golpes, se dice que hizo un birdie."
+  "explanation": "En el golf, un birdie es una expresión que se utiliza cuando un jugador completa un hoyo en un golpe menos que el par establecido para ese hoyo. Por ejemplo, si el par de un hoyo es 4 y un jugador lo completa en 3 golpes, se dice que hizo un birdie."
 }
